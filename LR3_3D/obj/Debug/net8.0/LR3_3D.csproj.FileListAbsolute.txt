@@ -1,0 +1,5 @@
+C:\Users\Daniil\source\repos\LR3_3D\LR3_3D\obj\Debug\net8.0\LR3_3D.csproj.AssemblyReference.cache
+C:\Users\Daniil\source\repos\LR3_3D\LR3_3D\obj\Debug\net8.0\LR3_3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\source\repos\LR3_3D\LR3_3D\obj\Debug\net8.0\LR3_3D.AssemblyInfoInputs.cache
+C:\Users\Daniil\source\repos\LR3_3D\LR3_3D\obj\Debug\net8.0\LR3_3D.AssemblyInfo.cs
+C:\Users\Daniil\source\repos\LR3_3D\LR3_3D\obj\Debug\net8.0\LR3_3D.csproj.CoreCompileInputs.cache
